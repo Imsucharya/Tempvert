@@ -1,2 +1,2 @@
 # Tempvert
-This is an basic temperature coverter app which coverts temperature in Fahrenheit to Celsius.
+This is a basic temperature coverter app which coverts temperature given in Fahrenheit into Celsius.
